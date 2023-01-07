@@ -1,0 +1,15 @@
+/Users/Cecilie/Projects/string_reverse/bin/Debug/net7.0/string_reverse
+/Users/Cecilie/Projects/string_reverse/bin/Debug/net7.0/string_reverse.deps.json
+/Users/Cecilie/Projects/string_reverse/bin/Debug/net7.0/string_reverse.runtimeconfig.json
+/Users/Cecilie/Projects/string_reverse/bin/Debug/net7.0/string_reverse.dll
+/Users/Cecilie/Projects/string_reverse/bin/Debug/net7.0/string_reverse.pdb
+/Users/Cecilie/Projects/string_reverse/obj/Debug/net7.0/string_reverse.csproj.AssemblyReference.cache
+/Users/Cecilie/Projects/string_reverse/obj/Debug/net7.0/string_reverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Cecilie/Projects/string_reverse/obj/Debug/net7.0/string_reverse.AssemblyInfoInputs.cache
+/Users/Cecilie/Projects/string_reverse/obj/Debug/net7.0/string_reverse.AssemblyInfo.cs
+/Users/Cecilie/Projects/string_reverse/obj/Debug/net7.0/string_reverse.csproj.CoreCompileInputs.cache
+/Users/Cecilie/Projects/string_reverse/obj/Debug/net7.0/string_reverse.dll
+/Users/Cecilie/Projects/string_reverse/obj/Debug/net7.0/refint/string_reverse.dll
+/Users/Cecilie/Projects/string_reverse/obj/Debug/net7.0/string_reverse.pdb
+/Users/Cecilie/Projects/string_reverse/obj/Debug/net7.0/string_reverse.genruntimeconfig.cache
+/Users/Cecilie/Projects/string_reverse/obj/Debug/net7.0/ref/string_reverse.dll

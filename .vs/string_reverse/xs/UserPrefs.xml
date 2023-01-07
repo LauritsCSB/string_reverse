@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6EBA578A-1E72-4245-8F45-295489271328}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="string_reverse.cs">
+    <Files>
+      <File FileName="string_reverse.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="string_reverse" expanded="True">
+            <Node name="string_reverse" expanded="True">
+              <Node name="string_reverse.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.string__reverse PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
